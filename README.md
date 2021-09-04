@@ -1,6 +1,6 @@
 ## Olá! Eu sou Eronice Moura
 
-- 😄 Estou em busca de estágio
+- 😄 Participo do programa de voluntariado na empresa Coletivo Codivas como desenvolvedora backend, desenvolvendo em Python Django
 - 🌱 Atualmente estou estudando desenvolvimento frontend e backend
 
  <div>
