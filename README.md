@@ -2,6 +2,7 @@
 
 - 😄 Participo do programa de voluntariado na empresa Coletivo Codivas como desenvolvedora backend, desenvolvendo em Python Django
 - 🌱 Atualmente estou estudando desenvolvimento frontend e backend
+- 😄 Entre em contato comigo: eronice.mou@gmail.com
 
  <div>
   <a href="https://github.com/Eronice">
