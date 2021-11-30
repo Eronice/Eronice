@@ -2,7 +2,6 @@
 
 - 😄 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estou me aperfeiçoando em desenvolvimento frontend
-- 😄 Participo do programa de voluntariado na empresa Coletivo Codivas, desenvolvendo em Python Django
 - 😄 Entre em contato comigo: eronice.mou@gmail.com
 
  <div>
