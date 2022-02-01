@@ -1,7 +1,7 @@
 ## Olá! Eu sou Eronice Moura
 
-- 😄 Estudante de Engenharia de Controle e AUtomação Industrial
-- 🌱 Estou me aperfeiçoando em desenvolvimento de software e hardware
+- 😄 Estudante de Engenharia de Controle e Automação Industrial
+- 🌱 Estou me aperfeiçoando em desenvolvimento de software
 - 😄 Entre em contato comigo: eronice.mou@gmail.com
 
  <div>
