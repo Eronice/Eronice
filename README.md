@@ -1,7 +1,7 @@
 ## Olá! Eu sou Eronice Moura
 
-- 😄 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estou me aperfeiçoando em desenvolvimento frontend
+- 😄 Estudante de Engenharia de Controle e AUtomação Industrial
+- 🌱 Estou me aperfeiçoando em desenvolvimento de software e hardware
 - 😄 Entre em contato comigo: eronice.mou@gmail.com
 
  <div>
