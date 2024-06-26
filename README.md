@@ -1,17 +1,13 @@
 ## Olá! Eu sou Eronice Moura
 
-- 😄 Estudante de Engenharia de Controle e Automação Industrial
-- 🌱 Estou me aperfeiçoando em desenvolvimento de software
-- 😄 Entre em contato comigo: eronice.mou@gmail.com
+- 😄 Graduanda em Engenharia de Controle e Automação
+- 🌱 Estudando Teste de Software
 
  <div>
   <a href="https://github.com/Eronice">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eronice&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eronice&layout=compact&langs_count=7&theme=dark"/>
 <div/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eronice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eronice-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eronice-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eronice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eronice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
